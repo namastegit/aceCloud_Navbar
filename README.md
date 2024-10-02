@@ -6,8 +6,12 @@
    ## 3 -> npm i
    ## 4 -> npm run dev
 
-## USED
+
+##-------------------------
+
+
+## USED::
   ## Tailwind CSS   
   ## Lucid React Icons
-  ## Raect 
+  ## React 
   ## Web Pack - Vite --> (npm create vite@latest)
